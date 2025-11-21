@@ -1,0 +1,54 @@
+{
+  "recipes": [
+    {
+      "id": "3da7",
+      "title": "Homemade King Ranch Chicken Casserole",
+      "description": "Homemade King Ranch Chicken Casserole is a main course that serves 6. One serving contains 554 calories, 36g of protein, and 29g of fat. For $2.49 per serving, this recipe covers 22% of your daily requirements of vitamins and minerals. Many people made this recipe, and 9362 would say it hit the spot. This recipe from Pink When requires butter, chicken breasts, onion, and tomatoes and chilis. From preparation to the plate, this recipe takes around 1 hour and 5 minutes. It can be enjoyed any time, but it is especially good for Autumn. Taking all factors into account, this recipe earns a spoonacular score of 79%, which is solid. If you like this recipe, you might also like recipes such as Homemade King Ranch Chicken Casserole, Homemade King Ranch Chicken Casserole, and King Ranch Chicken Casserole.",
+      "cuisine": "side dish",
+      "tags": [
+        "side dish",
+        "lunch",
+        "main course",
+        "main dish",
+        "dinner"
+      ],
+      "totalTime": 65,
+      "servings": 6,
+      "ingredients": [],
+      "steps": [
+        {
+          "id": "api-step-1",
+          "text": "If you haven't already, cook your chicken breasts by boiling them in water for 20 minutes, or until juices run clear when cut into. Then cube and set aside.Preheat the oven to 35",
+          "title": "Step 1"
+        },
+        {
+          "id": "api-step-2",
+          "text": "Chop the onion into small pieces and saute in  cup butter over medium heat for 5 minutes or until slightly translucent. Turn heat down to low and add both cans of soup, stirring until mixed well.",
+          "title": "Step 2"
+        },
+        {
+          "id": "api-step-3",
+          "text": "Remove from heat and set aside.In a prepared 9 x 13 baking dish place a layer of tortillas to cover the bottom of the dish.",
+          "title": "Step 3"
+        },
+        {
+          "id": "api-step-4",
+          "text": "Add a thin layer of tomatoes and green chilis, a thin layer of the soup mixture, a thin layer of chicken, and top with cheese.",
+          "title": "Step 4"
+        },
+        {
+          "id": "api-step-5",
+          "text": "Add another thin layer of tortillas, tomatoes and green chilis, soup mixture, chicken, and cheese. Keep doing the layers until you run out of space, finally covering the dish with the remaining cheese.",
+          "title": "Step 5"
+        },
+        {
+          "id": "api-step-6",
+          "text": "Bake in the preheated oven on 350 for 45 minutes, or until cheese is turned a golden brown. Allow to cool before serving.",
+          "title": "Step 6"
+        }
+      ],
+      "source": "local",
+      "image": "https://img.spoonacular.com/recipes/715437-312x231.jpg"
+    }
+  ]
+}
